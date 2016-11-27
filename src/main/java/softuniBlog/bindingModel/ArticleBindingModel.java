@@ -25,4 +25,6 @@ public class ArticleBindingModel {
     public void setContent(String content) {
         this.content = content;
     }
+
+
 }
